@@ -2,7 +2,7 @@ import os
 import pyautogui
 from time import sleep
 
-path_string = "C:\\Users\\Thiago Paiva\\OneDrive - sharkcoders\\20260915-python\\"
+path_string = ""
 # Exact region of the element to capture (uses the coordinate reading)
 X_ELEM = 100
 Y_ELEM = 200

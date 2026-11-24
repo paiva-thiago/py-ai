@@ -6,7 +6,7 @@ WIDTH, HEIGHT = 80, 40
 
 file_name= "../references/reference.png"
 image = pyautogui.screenshot()
-path_string = "C:\\Users\\Thiago Paiva\\OneDrive - sharkcoders\\20260915-python\\"
+path_string = ""
 full_path = os.path.join(path_string, file_name)
 print('Capturing it in 3 seconds...')
 sleep(3)
