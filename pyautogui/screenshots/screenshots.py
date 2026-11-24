@@ -11,7 +11,7 @@ try:
 
     file_name = f'screenshot_{str_now}.png'
     image = pyautogui.screenshot()
-    path_string = "C:\\Users\\Thiago Paiva\\OneDrive - sharkcoders\\20260915-python\\"
+    path_string = ""
     full_path = os.path.join(path_string, file_name)
 
 

@@ -121,7 +121,6 @@ Examples include:
 ## Important Notes
 
 - PyAutoGUI scripts can immediately move the mouse, type text, open applications, or close processes. Review a script before running it.
-- Some screenshot and image-recognition scripts contain machine-specific absolute paths. Replace paths such as `C:\Users\Thiago Paiva\OneDrive - sharkcoders\20260915-python\` with a folder available on your computer.
 - Reference-image scripts assume the image is in their expected relative location. `pyautogui/references/reference.png` is included for this purpose.
 - Press `Ctrl+C` to stop scripts that use continuous loops.
 - Window titles and layout behavior depend on the applications and screen resolution in use.
